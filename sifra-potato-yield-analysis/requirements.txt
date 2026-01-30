@@ -1,13 +1,9 @@
 pandas
-geemap
 numpy
+geopandas
+geemap
+earthengine-api
 matplotlib
-seaborn
+plotly
 scikit-learn
 requests
-jupyter
-notebook
-folium
-plotly
-geopandas
-earthengine-api
