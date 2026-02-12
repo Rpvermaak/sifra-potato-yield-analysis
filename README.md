@@ -143,8 +143,7 @@ code notebooks/Notebook_B_Comparative_Analysis_&_Modeling.ipynb
 ## Project Structure
 
 ```
-sifra-potato-yield-analysis/
-│
+.
 ├── notebooks/
 │   ├── Notebook_A_Data_Acquisition_Multi-Site_Yield_Analysis.ipynb
 │   ├── Notebook_B_Comparative_Analysis_&_Modeling.ipynb

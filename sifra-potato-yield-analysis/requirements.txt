@@ -1,9 +1,0 @@
-pandas
-numpy
-geopandas
-geemap
-earthengine-api
-matplotlib
-plotly
-scikit-learn
-requests
